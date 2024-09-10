@@ -12,7 +12,7 @@ The script takes two inputs:
 For example, if `shift_amount` is 3:
 - `A` becomes `D`
 - `B` becomes `E`
-- `Z` wraps around and becomes `C`
+
 
 ## Usage
 
