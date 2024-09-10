@@ -1,6 +1,9 @@
 Caesar Cipher Encryption
 
 This Python script encrypts text using the Caesar cipher, a simple encryption technique where each letter in the plaintext is shifted a certain number of places down or up the alphabet. Non-alphabetic characters (such as punctuation marks, spaces, and numbers) remain unchanged.
+## Features
+Encryption: Encodes text using the Caesar cipher method.
+Decryption: Decodes text encrypted with the Caesar cipher.
 
 ## How It Works
 
