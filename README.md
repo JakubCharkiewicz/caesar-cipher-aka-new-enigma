@@ -16,7 +16,7 @@ For example, if `shift_amount` is 3:
 
 ## Usage
 
-To use the script, define your text and the shift amount, then call the `encrypt` function:
+To use the script, define your text and the shift amount.
 
 ```python
 # Example usage
